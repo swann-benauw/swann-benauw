@@ -39,17 +39,13 @@ Download My CV here: [CV Swann Benauw - Data Analyst.pdf](https://github.com/use
 <img width="1386" alt="Capture d’écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
 
 
-<h2>👨‍💻 Data Analysis Development Projects:</h2>
-
-- <b>Final study cas with databird</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 ## Mes projets
 ### Projet 1 : Analyse des ventes d'une entreprise
 - **Description** : Analyse des ventes mensuelles pour prévoir les tendances futures.
 - **Technologies** : Python, pandas, Matplotlib, scikit-learn, SQL.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
+- **Lien vers le projet** : [lien vers le projet GitHub](https://github.com/swann-benauw/Project-1)
 
 ### Projet 2 : Analyse des sentiments sur Twitter
 - **Description** : Utilisation du scraping pour analyser les sentiments des utilisateurs sur Twitter autour d'un sujet donné.
