@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi, I'm Coline! <br/><a 
+<h1>Hi, I'm Swann! <br/><a 
 
 # My Portfolio
 
@@ -34,7 +34,8 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
+[![Download My CV][CV Swann Benauw - Data Analyst.pdf](https://github.com/user-attachments/files/18209425/CV.Swann.Benauw.-.Data.Analyst.pdf)
+
 [Click here to download my CV](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
 
 [CV Coline Ritz.pdf](https://github.com/user-attachments/files/18207419/CV.Coline.Ritz.pdf)
