@@ -42,10 +42,10 @@ Download My CV here: [CV Swann Benauw - Data Analyst.pdf](https://github.com/use
 
 
 ## Mes projets
-### Projet 1 : Analyse des ventes d'une entreprise
-- **Description** : Analyse des ventes mensuelles pour prévoir les tendances futures.
-- **Technologies** : Python, pandas, Matplotlib, scikit-learn, SQL.
-- **Lien vers le projet** : [lien vers le projet GitHub](https://github.com/swann-benauw/Project-1)
+### Projet 1 : Un mémo Python
+- **Description** : un échantillon de ce que je connais sur Python 
+- **Technologies** : Python, pandas, Matplotlib
+- **Lien vers le projet** : [lien vers le projet GitHub]([https://github.com/swann-benauw/Project-1](https://github.com/swann-benauw/Project-1/blob/main/Cours%20Python%20Swann%20-%20Databird%20-%20WIP.ipynb))
 
 ### Projet 2 : Analyse des sentiments sur Twitter
 - **Description** : Utilisation du scraping pour analyser les sentiments des utilisateurs sur Twitter autour d'un sujet donné.
